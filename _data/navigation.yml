@@ -8,26 +8,35 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Industry Experience"
+    url: /industry-experience/
+
+  - title: "Research Experience"
+    url: /research-experience/
+
+  - title: "Teaching Experience"
+    url: /teaching-experience/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Skills"
+    url: /skills/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+  - title: "Activities"
+    url: /extracurricular-activities/
+
+  # Kept out of the header nav, but the pages themselves still exist
+  # (accessible by direct URL) unless you delete the files:
+  # - title: "Talks"
+  #   url: /talks/
+  # - title: "Teaching"
+  #   url: /teaching/
+  # - title: "Portfolio"
+  #   url: /portfolio/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
   # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+  #   url: /cv/
+  # - title: "Guide"
+  #   url: /markdown/
