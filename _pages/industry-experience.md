@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="timeline">
 
-  <div class="timeline-item is-current">
+  <div class="timeline-item">
     <div class="timeline-card">
       <div class="timeline-logo"><img src="/images/logos/intel.png" alt="Intel logo"></div>
       <div class="timeline-info">

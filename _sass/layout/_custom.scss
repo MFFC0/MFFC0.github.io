@@ -516,3 +516,18 @@ $profile-col-width: 360px;
 .greedy-nav .visible-links a {
   margin: 0 0.75rem;
 }
+
+/* Confirmation shown after the sidebar email icon copies the address */
+.email-toast {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  padding: 10px 18px;
+  font-size: 0.85rem;
+  color: #fff;
+  background: var(--global-base-color);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}

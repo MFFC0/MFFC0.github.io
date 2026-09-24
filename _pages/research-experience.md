@@ -10,7 +10,7 @@ author_profile: true
 <div class="timeline">
 
 
-  <div class="timeline-item is-current">
+  <div class="timeline-item">
     <div class="timeline-card">
       <div class="timeline-logo"><img src="/images/logos/berkeley-lab.png" alt="Lawrence Berkeley National Laboratory logo"></div>
       <div class="timeline-info">
