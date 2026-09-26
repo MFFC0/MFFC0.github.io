@@ -183,6 +183,38 @@ exclude:
   - README
   - tmp
   - vendor
+  # Repo files that aren't part of the site
+  - AGENTS.md
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - "*.ipynb"
+  - scripts
+  - docker-compose.yaml
+  - "Md Fahim F Chowdhury_Resume.docx"
+  - "Md Fahim F Chowdhury_Resume.pdf"
+  - mfahimfc.github.io
+  # Unused template sample content
+  - _posts
+  - _drafts
+  - _portfolio
+  - _talks
+  - _teaching
+  - _pages/archive-layout-with-content.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/terms.md
+  - _pages/cv.md
+  - _pages/cv-json.md
+  - _pages/talks.html
+  - _pages/teaching.html
+  - _pages/portfolio.html
+  - _pages/talkmap.html
+  - _pages/year-archive.html
+  - _pages/category-archive.html
+  - _pages/tag-archive.html
+  - _pages/collection-archive.html
+  - _pages/page-archive.html
 keep_files:
   - .git
   - .svn
