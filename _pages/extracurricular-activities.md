@@ -23,10 +23,17 @@ author_profile: true
 
 ## Summer schools and workshops
 
-- **Quantum Ideas Summer School**, Duke University, NC, USA, June 2023  
+- **Quantum Ideas Summer School**  
+  Duke University, NC, USA, June 2023  
   Intensive program covering an overview of quantum computing, algorithms for near-term devices, and quantum error correction. Participated in workshops and seminars led by leading researchers in quantum computing.
-- **Robust Quantum Simulation**, University of Rhode Island, RI, USA, August 2024  
+- **Robust Quantum Simulation**  
+  University of Rhode Island, RI, USA, August 2024  
   Lectures on many-body systems, combining theoretical and numerical techniques with examples from quantum hardware experiments.
+
+## Community service
+
+- Volunteer, Tuskegee Feed-In Program, Deborah Cannon Wolfe School
+- Volunteer, HandsOn community service (Toys for Tots)
 
 ## Professional memberships
 
@@ -34,8 +41,3 @@ author_profile: true
 - IEEE Microwave Theory and Techniques Society (MTT-S)
 - IEEE Council on Superconductivity, IEEE Council on RFID, and IEEE Council on Electronic Design Automation
 - American Physical Society (APS)
-
-## Community service
-
-- Volunteer, Tuskegee Feed-In Program, Deborah Cannon Wolfe School
-- Volunteer, HandsOn community service (Toys for Tots)
