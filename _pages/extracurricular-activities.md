@@ -21,6 +21,13 @@ author_profile: true
 - Session Chair (Young Professionals), IEEE SoutheastCon 2021
 - Student Volunteer, International Microwave Symposium (IMS), Boston, MA, 2019
 
+## Summer schools and workshops
+
+- **Quantum Ideas Summer School**, Duke University, NC, USA, June 2023  
+  Intensive program covering an overview of quantum computing, algorithms for near-term devices, and quantum error correction. Participated in workshops and seminars led by leading researchers in quantum computing.
+- **Robust Quantum Simulation**, University of Rhode Island, RI, USA, August 2024  
+  Lectures on many-body systems, combining theoretical and numerical techniques with examples from quantum hardware experiments.
+
 ## Professional memberships
 
 - Institute of Electrical and Electronics Engineers (IEEE)
